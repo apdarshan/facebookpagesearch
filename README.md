@@ -1,4 +1,4 @@
-Facebook Page Search using Graph API 
+Facebook Pages Search using Graph API 
 ==================
 
 Search Facebook pages using Facebook Graph API
